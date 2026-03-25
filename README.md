@@ -22,8 +22,8 @@ https://chatgpt.com/use-cases/scientists
 - **HL7 Message Analyzer** – Tools for parsing, validating, and inspecting HL7v2 messages  
   https://github.com/josephbartlett/hl7-message-analyzer
 
-- **FHIR Resource Validator** – Client-side FHIR R4 JSON structure checks with example payloads and tests  
-  https://github.com/josephbartlett/fhir-resource-validator
+- **SessionGuard** – Windows 11 utility that reduces surprise Windows Update restart disruption by surfacing restart risk, protecting active work, and applying safe native mitigations  
+  https://github.com/josephbartlett/sessionguard-win11
 
 - **FHIR De-Identification Toolkit** – HIPAA Safe Harbor–oriented CLI utilities for structured de-identification  
   https://github.com/josephbartlett/deidentify-fhir

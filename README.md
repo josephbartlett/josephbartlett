@@ -4,12 +4,17 @@
 
 I build practical, production-ready tools for healthcare data engineering—focusing on HL7v2 interfaces, CCD/C-CDA parsing, FHIR validation, de-identification, and real-world EMR integration workflows across Epic, Meditech, Cerner, Athena, and eCW.
 
+Lately, I've also been exploring emergent behavior, agent-based simulation, and browser-based observatories for complex systems.
+
 One of my interoperability workflows was recently featured in OpenAI’s *Chats for Scientists* showcase, highlighting how AI can accelerate HL7 → FHIR mapping and schema analysis.  
 https://chatgpt.com/use-cases/scientists
 
 ---
 
 ## Featured Projects
+
+- **Fishtank Ecology** - VGA-style browser observatory for emergent fish ecology with autonomous fish, deterministic seeds, habitats, currents, and inspection tools  
+  https://github.com/josephbartlett/sim-emergent-fish
 
 - **CCD Viewer** – Lightweight, browser-based CCD/C-CDA viewer and validator with a clean Bootstrap UI  
   https://github.com/josephbartlett/ccd-viewer
@@ -30,9 +35,10 @@ https://chatgpt.com/use-cases/scientists
 - Open-source utilities under **InteropTools**  
 - Practical, testable workflows for mapping, validating, and transforming clinical data  
 - AI-powered helpers that accelerate interoperability engineering and schema analysis  
+- Browser-based simulations and observatories for emergent behavior and complex systems  
 - Lightweight, explainable developer tools that make HL7, CCD, and FHIR easier to work with
 
-If you work in interoperability, data quality, EMR pipelines, or AI-augmented clinical tooling, I’m always open to connect.
+If you work in interoperability, data quality, EMR pipelines, simulation tooling, or AI-augmented clinical workflows, I’m always open to connect.
 
 ---
 

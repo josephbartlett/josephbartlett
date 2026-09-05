@@ -1,46 +1,26 @@
 # Joseph (Joey) Bartlett
 
-### Healthcare Interoperability Engineer · HL7v2 · CCD/C-CDA · FHIR R4 · Clinical Data Systems
+I'm a healthcare interoperability engineer on Cape Cod. My professional work involves HL7, FHIR, hospital interfaces, and getting healthcare data where it needs to go.
 
-I build tools for healthcare interoperability and clinical data engineering, focusing on HL7v2 interfaces, CCD/C-CDA parsing, FHIR validation, de-identification, and real-world EMR integration workflows across Epic, Meditech, Cerner, Athena, and eCW.
+This is also where I share the things I build with AI and code: useful tools, simulations, and experiments that start with a question I want to explore. Sometimes that means inspecting a message. Sometimes it means watching an incubator or seeing what a tank full of simulated fish will do.
 
-I also build browser-based simulations and observatories for emergent behavior and complex systems.
+## A few things I've built
 
-OpenAI profiled one of my interoperability workflows in *Chats for Scientists* and later included a healthcare data exchange prototyping use case in the March 5, 2026 *ChatGPT for Pros* newsletter.  
-https://chatgpt.com/use-cases/scientists  
-https://chatgptpro.substack.com/p/9-ways-experts-put-chatgpt-to-work
+- **[Hatch Watch](https://github.com/josephbartlett/hatch-watch)** — A local incubator camera dashboard with activity cues and a timeline of events you review yourself.
+- **[HL7 Message Analyzer](https://github.com/josephbartlett/hl7-message-analyzer)** — A browser tool for inspecting HL7 v2 segments, fields, and non-printable characters.
+- **[MailOps](https://github.com/josephbartlett/MailOps)** — A Python CLI for reviewing email locally and preparing approved drafts through Proton Mail Bridge. Public alpha.
+- **[Fishtank Ecology](https://github.com/josephbartlett/sim-emergent-fish)** — A browser aquarium simulation exploring how simple local rules produce fish behavior.
+- **[SessionGuard](https://github.com/josephbartlett/sessionguard-win11)** — A Windows 11 utility that monitors update restart risk and offers limited, reversible mitigations.
+- **[CCD Viewer](https://github.com/josephbartlett/ccd-viewer)** — A PHP viewer for exploring CCD/C-CDA narratives, structured entries, and XML using test or de-identified data.
 
----
+## My work at L&M
 
-## Featured Projects
+At **[L&M Consulting Group](https://lm-consulting-group.com/)**, I lead healthcare integration and technical implementation. Our work also includes workplace AI guidance, practical training, and business systems.
 
-- **Fishtank Ecology** – Browser-based emergent fish ecology simulation with deterministic seeds, habitats, currents, and inspection tools  
-  https://github.com/josephbartlett/sim-emergent-fish
+I enjoy helping people try these tools, find something useful, and talk openly about what worked and what didn't.
 
-- **CCD Viewer** – Browser-based CCD/C-CDA viewer and validator  
-  https://github.com/josephbartlett/ccd-viewer
+## Elsewhere
 
-- **HL7 Message Analyzer** – Tools for parsing, validating, and inspecting HL7v2 messages  
-  https://github.com/josephbartlett/hl7-message-analyzer
+My healthcare integration work has been featured in OpenAI's [Chats for science and medicine](https://chatgpt.com/use-cases/science-medicine/) and the [ChatGPT for Pros newsletter](https://chatgptpro.substack.com/p/9-ways-experts-put-chatgpt-to-work).
 
-- **SessionGuard** – Windows 11 utility for reducing update restart disruption and protecting active work  
-  https://github.com/josephbartlett/sessionguard-win11
-
-- **FHIR De-Identification Toolkit** – HIPAA Safe Harbor–oriented CLI utilities for structured de-identification  
-  https://github.com/josephbartlett/deidentify-fhir
-
----
-
-## Current Focus
-
-- Open-source interoperability tools under **InteropTools**  
-- Clinical data workflows for parsing, validating, mapping, and transformation  
-- AI-assisted tooling for interoperability engineering and schema analysis  
-- Browser-based simulations of emergent behavior and complex systems
-
-If you work on interoperability, clinical data pipelines, simulation tooling, or AI-augmented clinical workflows, feel free to reach out.
-
----
-
-*You can also find me on LinkedIn:*  
-https://www.linkedin.com/in/joey-bartlett-ai
+I share projects and work in progress on **[LinkedIn](https://www.linkedin.com/in/joey-bartlett-ai/)**, too.
